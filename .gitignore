@@ -1,0 +1,3 @@
+mqtt/log/mosquitto.log
+mqtt/config/mosquitto.conf
+rabbit-mq/rabbitmq/data/.erlang.cookie
